@@ -1,4 +1,6 @@
 # Key Project
+
+[![Join the chat at https://gitter.im/K-E-Y/key](https://badges.gitter.im/K-E-Y/key.svg)](https://gitter.im/K-E-Y/key?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 프로젝트의 일정 및 주요 내용을 정리해두는 곳입니다.
 > 이 Repository는 브랜치를 따로 관리하지 않습니다.
 > 모두 Master 브랜치로 작업해주세요.
